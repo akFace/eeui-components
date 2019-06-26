@@ -91,12 +91,7 @@ defaultConfig: {
 //`@cancel="cancel"`
 ```
 
-### 2、弹框组件
-
-### dialog 
-[使用说明](https://github.com/alibaba/weex-ui/tree/master/packages/wxc-dialog)
-
-### 3、popup 
+### 2、popup 
 
 #### gif演示
 <figure class="center">
@@ -105,7 +100,7 @@ defaultConfig: {
 
 [使用说明](https://github.com/alibaba/weex-ui/tree/master/packages/wxc-popup)
 
-### 4、Popover 
+### 3、Popover 
 
 #### gif演示
 <figure class="center">
@@ -115,27 +110,33 @@ defaultConfig: {
 [使用说明](https://github.com/alibaba/weex-ui/tree/master/packages/wxc-popover)
 
 
-### 5、 sliderbar 进度条
+### 4、 sliderbar 进度条
 [使用说明](https://github.com/alibaba/weex-ui/tree/master/packages/wxc-slider-bar)
 
 
-### 6、 Overlay 蒙层
+### 5、 Overlay 蒙层
 [使用说明](https://github.com/alibaba/weex-ui/tree/master/packages/wxc-overlay)
 
 
-### 7、 Radio 单选
+### 6、 Radio 单选
 [使用说明](http://dev.bingocc.com/buiweex/docs/reference/bui-radio.html)
 
 
-### 8、 StatusBar 状态栏
+### 7、 StatusBar 状态栏
 
 使用说明：
+
 | Prop      | Type   |Required  | Default   | Description  |
 |-------------|------------|--------|--------|-----|
 | customStyle | `Object` | `N`|  `{}` | 状态栏颜色样式 |
 
-### 9、 Tabbar
+### 8、 Tabbar
 [使用说明](http://dev.bingocc.com/buiweex/docs/reference/bui-tabbar.html)
 
 ### 9、 Cellitem
 [使用说明](http://dev.bingocc.com/buiweex/docs/reference/bui-cell.html)
+
+### 10、弹框组件
+
+### dialog 
+[使用说明](https://github.com/alibaba/weex-ui/tree/master/packages/wxc-dialog)
