@@ -1,4 +1,4 @@
-#### 常用组件封装
+#### 常用组件封装,部分迁移[weex-ui](https://github.com/alibaba/weex-ui)和[bui](https://github.com/bingo-oss/bui-weex)组件，并做了适配用于eeui，以及视觉优化调整
 
 ### 1、颜色选择器
 
@@ -101,3 +101,29 @@ defaultConfig: {
 </figure>
 
 [使用说明](https://github.com/alibaba/weex-ui/tree/master/packages/wxc-popover)
+
+
+### 5、 sliderbar 进度条
+[使用说明](https://github.com/alibaba/weex-ui/tree/master/packages/wxc-slider-bar)
+
+
+### 6、 Overlay 蒙层
+[使用说明](https://github.com/alibaba/weex-ui/tree/master/packages/wxc-overlay)
+
+
+### 7、 Radio 单选
+[使用说明](http://dev.bingocc.com/buiweex/docs/reference/bui-radio.html)
+
+
+### 8、 StatusBar 状态栏
+
+使用说明：
+| Prop      | Type   |Required  | Default   | Description  |
+|-------------|------------|--------|--------|-----|
+| customStyle | `Object` | `N`|  `{}` | 状态栏颜色样式 |
+
+### 9、 Tabbar
+[使用说明](http://dev.bingocc.com/buiweex/docs/reference/bui-tabbar.html)
+
+### 9、 Cellitem
+[使用说明](http://dev.bingocc.com/buiweex/docs/reference/bui-cell.html)
