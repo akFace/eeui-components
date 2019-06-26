@@ -29,6 +29,18 @@ export default {
     },
     methods: {
         confirm(result) {
+            // result 返回值
+            /**
+                {
+                    R: 14,
+                    G: 157,
+                    B: 144,
+                    A: 1,
+                    rgbaColor: 'rgba(14,157,144,1)',
+                    hexColor: '#119d90'
+                }
+
+            **/
             this.show_color_picker = false;
         },
         cancel() {
